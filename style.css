@@ -1,7 +1,7 @@
 @media screen and (min-device-width:0px) and (max-device-width:320px) {
     #one{width:90%}
     body{   
-    background:url(lakerdidbackround.png) top no-repeat;
+    background:url(lakerdidbackground.png) top no-repeat;
     font-family:arial;
 }
 h1{
@@ -15,7 +15,7 @@ table{
 @media screen and (min-device-width:321px) and (max-device-width:480px) {
     #one{width:90%}
     body{   
-    background:url(lakerdidbackround.png) top no-repeat;
+    background:url(lakerdidbackground.png) top no-repeat;
     font-family:arial;
 }
 h1{
@@ -29,7 +29,7 @@ table{
 @media screen and (min-device-width:481px) and (max-device-width:600px) {
     #one{width:90%}
     body{   
-    background:url(lakerdidbackround.png) top no-repeat;
+    background:url(lakerdidbackground.png) top no-repeat;
     font-family:arial;
 }
 h1{
@@ -43,7 +43,7 @@ table{
 @media screen and (min-device-width:601px) and (max-device-width:660px) {
     #one{width:90%}
     body{   
-    background:url(lakerdidbackround.png) top no-repeat;
+    background:url(lakerdidbackground.png) top no-repeat;
     font-family:arial;
 }
 h1{
@@ -57,7 +57,7 @@ table{
 @media screen and (min-device-width:661px) and (max-device-width:1025px) {
     #one{width:90%}
     body{   
-    background:url(lakerdidbackround.png) top no-repeat;
+    background:url(lakerdidbackground.png) top no-repeat;
     font-family:arial;
 }
 h1{
@@ -71,7 +71,7 @@ table{
 @media screen and (min-device-width:1026px) and (max-device-width:1299px) {
     #one{width:90%}
     body{   
-    background:url(lakerdidbackround.png) top no-repeat;
+    background:url(lakerdidbackground.png) top no-repeat;
     font-family:arial;
 }
 h1{
@@ -85,7 +85,7 @@ table{
 @media screen and (min-device-width:1300px) and (max-device-width:2000px) {
     #one{width:90%}
    body{   
-    background:url(lakerdidbackround.png) top no-repeat;
+    background:url(lakerdidbackground.png) top no-repeat;
     font-family:arial;
 }
 h1{
@@ -98,7 +98,7 @@ table{
 
 @media screen and (min-device-width:2001px) and (max-device-width:3000px) {
     #one{width:90%}
-    body{    background:url(lakerdidbackround.png) top no-repeat;
+    body{    background:url(lakerdidbackground.png) top no-repeat;
     font-family:arial;
 }
 h1{
@@ -111,7 +111,7 @@ table{
 
 @media screen and (min-device-width:3001px) and (max-device-width:5000px) {
     #one{width:90%}
-    body{    background:url(lakerdidbackround.png) top no-repeat;
+    body{    background:url(lakerdidbackground.png) top no-repeat;
     font-family:arial;
 }
 h1{
